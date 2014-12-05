@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 /**
- * A07 Teamarbeit, Testklasse
+ * A07 Teamarbeit, Testklasse*
  * @author Yehezkel Sivan
  * @version 2014.12.05
  */
