@@ -1,14 +1,9 @@
-
-
 /**
  * Klasse zum berechnen der Flächeninhalte(Rechteck, Kreis, Dreieck)
  * @author Aaron Purger
  * @Date 05.12.2014
  * @Version 1.0
- * 
  */
-
-
 public class Flaeche {
 
 	private double a, b, c; //Variablen a, b, c (Längen)

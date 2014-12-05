@@ -1,5 +1,5 @@
 /**
- * A07 Teamarbeit, berechnung des Raumes
+ * A07 Teamarbeit, Klasse zur berechnung des Raumes
  * @author Yehezkel Sivan
  * @version 2014-12-05, v1.0
  */
