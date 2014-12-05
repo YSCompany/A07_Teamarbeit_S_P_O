@@ -1,4 +1,3 @@
-import java.util.Collections;
 import java.util.LinkedList;
 
 /**
@@ -64,12 +63,5 @@ public class Zahlen {
 	public void add(double a)
 	{
 		list.add(a);
-	}
-	/**
-	 * LinkedList löschen
-	 */
-	public void loeschen()
-	{
-		list.clear();
 	}
 }

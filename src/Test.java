@@ -31,6 +31,15 @@ public class Test {
 		//Allgemeiner Dreieck
 		System.out.println("Dreieck, a=3m, b=5m, c=7m, Fläche="+f.allgDreieck()+"m²");
 		
-		
+		//Zahlen
+		Zahlen z = new Zahlen();
+		z.add(3);
+		z.add(5);
+		z.add(7);
+		z.add(9);
+		z.add(4);
+		z.add(6);
+		z.add(8);
+		System.out.println("Summe:"+z.summe()+" Minimum:"+z.min()+" Maximum:"+z.max());
 	}
 }
